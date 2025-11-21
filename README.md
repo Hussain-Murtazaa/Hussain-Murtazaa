@@ -1,7 +1,14 @@
 <!-- Header Banner -->
 <h1 align="center">🚀 Hussain Murtaza — AI Engineer | Developer | Designer</h1>
 <p align="center">
-  <b>Building AI-powered solutions, designing clean visuals, and developing modern web experiences.</b>
+  <b>Building AI-powered solutions, crafting clean visuals, and developing modern web experiences.</b>
+</p>
+
+---
+
+<!-- View Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hussain-Murtazaa&style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
@@ -17,15 +24,24 @@
 ---
 
 ## 🧠 About Me
-I'm an **AI Engineer** with a strong foundation in:
+I'm an **AI Engineer** with hands-on skills in:
 
-- 🤖 Artificial Intelligence & Machine Learning  
+- 🤖 Machine Learning & Artificial Intelligence  
 - 🧠 Deep Learning & Large Language Models (LLMs)  
 - 🚀 Generative AI (GenAI)  
 - 🎨 Graphic Designing (Illustrator, Photoshop, Canva)  
 - 🌐 Web Development (HTML, CSS, Bootstrap)
 
-I build practical, clean, and creative solutions across AI, development, and design.
+I build practical, creative, and clean technical solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,bootstrap,ps,ai,github,canva" />
+</p>
+
 
 ---
 
@@ -57,27 +73,27 @@ I build practical, clean, and creative solutions across AI, development, and des
 
 ## 📂 Projects (More Coming Soon)
 
-### 🔶 **TensorFlow Image Classifier**
-A clean ML pipeline built for image classification.
+### 🔶 TensorFlow Image Classifier
+A clean ML pipeline for image classification.
 
-### 🤖 **AI Chatbot (LLM-based)**
-An LLM-powered chatbot built with Python.
+### 🤖 AI Chatbot (LLM-based)
+A Python-powered conversational AI bot.
 
-### 🌐 **Portfolio Website**
-A responsive portfolio using HTML, CSS, Bootstrap.
+### 🌐 Personal Portfolio Website
+Responsive website with HTML, CSS, Bootstrap.
 
 ---
 
 ## 🏅 Certifications
-- 🤖 **AI Engineering — Enablers**  
-- 🎨 **Graphics Designing (Illustrator & Photoshop) — Pak College**  
-- 🌐 **Web Development (HTML, CSS, Bootstrap) — MAQ**  
+- 🤖 **AI Engineering** — Enablers
+- 🎨 **Graphics Designing (Illustrator & Photoshop)** — Pak College  
+- 🌐 **Web Development (HTML, CSS, Bootstrap)** — MAQ  
 
 ---
 
 ## 🎓 Education
-- 💻 Matriculation in Computer Science (BSEK)
 - 📘 Intermediate in Pre-Engineering (BIEK)  
+- 💻 Matriculation in Computer Science (BSEK)  
 
 ---
 
@@ -85,9 +101,27 @@ A responsive portfolio using HTML, CSS, Bootstrap.
 
 ### **Media Mates Advertising Agency — Internship**
 - Designed flyers, brochures, visiting cards  
-- Adobe Illustrator & Photoshop tasks  
+- Worked in Adobe Illustrator & Photoshop  
 - Assisted in video editing  
-- Worked on real client-based creative content  
+- Creative work for real clients  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hussain-Murtazaa&show_icons=true&theme=tokyonight" />
+</p>
+
+### 🔥 Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain-Murtazaa&theme=tokyonight" />
+</p>
+
+### 📘 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Murtazaa&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
