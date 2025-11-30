@@ -15,10 +15,10 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="mailto:hussainmurtazaqamri1@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/hussain-murtaza-0b9237392/"><img src="https://img.shields.io/badge/LinkedIn-Hussain%20Murtaza-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Hussain-Murtazaa"><img src="https://img.shields.io/badge/GitHub-Hussain--Murtazaa-black?style=for-the-badge&logo=github"></a>
-  <a href="https://wa.me/923310334453"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:hussainmurtazaqamri1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/hussain-murtaza-0b9237392/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Hussain%20Murtaza-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/Hussain-Murtazaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-Hussain--Murtazaa-black?style=for-the-badge&logo=github"></a>
+  <a href="https://wa.me/923310334453" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 ---
@@ -111,19 +111,19 @@ Responsive website with HTML, CSS, and Bootstrap.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hussain-Murtazaa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hussain-Murtazaa&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
-### 🔥 Streaks
+### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain-Murtazaa&theme=tokyonight" />
 </p>
 
-### 📘 Top Languages
+### 📘 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Murtazaa&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Murtazaa&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
