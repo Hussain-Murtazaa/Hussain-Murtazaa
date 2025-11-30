@@ -24,8 +24,8 @@
 ---
 
 ## 🧠 About Me
-I'm an **AI Engineer** with hands-on skills in:
 
+I'm an **AI Engineer** with hands-on skills in:
 - 🤖 Machine Learning & Artificial Intelligence  
 - 🧠 Deep Learning & Large Language Models (LLMs)  
 - 🚀 Generative AI (GenAI)  
@@ -41,7 +41,6 @@ I build practical, creative, and clean technical solutions.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,bootstrap,ps,ai,github,canva" />
 </p>
-
 
 ---
 
@@ -71,20 +70,21 @@ I build practical, creative, and clean technical solutions.
 
 ---
 
-## 📂 Projects (More Coming Soon)
+## 📂 Featured Projects
 
 ### 🔶 TensorFlow Image Classifier
-A clean ML pipeline for image classification.
+A clean ML pipeline for image classification using deep learning.
 
-### 🤖 AI Chatbot (LLM-based)
-A Python-powered conversational AI bot.
+### 🤖 Conversational Groq Chatbot
+A Python-powered conversational AI bot using Groq LLM.
 
 ### 🌐 Personal Portfolio Website
-Responsive website with HTML, CSS, Bootstrap.
+Responsive website with HTML, CSS, and Bootstrap.
 
 ---
 
 ## 🏅 Certifications
+
 - 🤖 **AI Engineering** — Enablers
 - 🎨 **Graphics Designing (Illustrator & Photoshop)** — Pak College  
 - 🌐 **Web Development (HTML, CSS, Bootstrap)** — MAQ  
@@ -92,6 +92,7 @@ Responsive website with HTML, CSS, Bootstrap.
 ---
 
 ## 🎓 Education
+
 - 📘 Intermediate in Pre-Engineering (BIEK)  
 - 💻 Matriculation in Computer Science (BSEK)  
 
@@ -107,18 +108,20 @@ Responsive website with HTML, CSS, Bootstrap.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hussain-Murtazaa&show_icons=true&theme=tokyonight" />
 </p>
 
 ### 🔥 Streaks
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain-Murtazaa&theme=tokyonight" />
 </p>
 
 ### 📘 Top Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Murtazaa&layout=compact&theme=tokyonight" />
 </p>
