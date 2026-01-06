@@ -108,26 +108,6 @@ Responsive website with HTML, CSS, and Bootstrap.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hussain-Murtazaa&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain-Murtazaa&theme=tokyonight" />
-</p>
-
-### 📘 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Murtazaa&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
----
-
 <p align="center">
   ⭐ <b>If you like my work, consider starring my repositories!</b> ⭐
 </p>
